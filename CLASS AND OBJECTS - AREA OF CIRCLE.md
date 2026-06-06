@@ -9,7 +9,7 @@ To write a Python program to take the radius from the user and find the area of 
 ---
 
 ### ALGORITHM
-
+~~~
 1.Begin the program.
 2.Create a class named pen.
 3.Define a method stationary(self, r) inside the class pen that accepts a radius r as an argument.
@@ -20,7 +20,7 @@ To write a Python program to take the radius from the user and find the area of 
 7.Create an instance of the pen class and store it in the variable a.
 8.Call the stationary method of the pen class
 9.Terminate the program.
-
+~~~
 ---
 
 ### PROGRAM
