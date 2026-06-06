@@ -58,8 +58,8 @@ while choice!=0:
 print()
 ~~~
 
-
-OUTPUT
+---
+### OUTPUT
 <img width="543" height="338" alt="image" src="https://github.com/user-attachments/assets/b64e3ed6-12b1-45fe-a9ba-358c15870dfc" />
 
 
